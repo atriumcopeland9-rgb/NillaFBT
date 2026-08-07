@@ -1,0 +1,10 @@
+.gradle/
+build/
+app/build/
+*.iml
+.idea/
+local.properties
+app/src/main/assets/pose_landmarker_full.task
+gradlew
+gradlew.bat
+gradle/wrapper/gradle-wrapper.jar
